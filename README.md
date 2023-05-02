@@ -8,7 +8,7 @@
 I'm a Software Engineer with 1+ years of experience in building web applications. I'm passionate about building scalable and maintainable software. I'm a self-taught developer and I'm always learning new things. I'm a big fan of open source and I love contributing to open source projects.
 
 <br  />
- 🏢: I’m currently working at Udevs
+ 🏢: I’m currently working at Alif Uzbekistan
 <br  />
  📫: tolibdilmurodov98@gmail.com
  <br  />
